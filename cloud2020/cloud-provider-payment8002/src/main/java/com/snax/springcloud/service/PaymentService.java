@@ -1,7 +1,6 @@
 package com.snax.springcloud.service;
 
 import com.snax.springcloud.entities.Payment;
-import org.apache.ibatis.annotations.Param;
 
 /**
  * @description: 描述

@@ -10,7 +10,7 @@ import java.io.Serializable;
  * @description: 描述
  * <br>
  * @date: 2020/5/22 15:15
- * @author: m00000061/maotianhang
+ * @author: snax
  * @version: SmartCityManager V1.0
  * @since: JDK 1.8
  */

@@ -7,10 +7,8 @@ import lombok.NoArgsConstructor;
 /**
  * @description: 描述
  * <br>
- * @date: 2020/5/22 17:00
- * @author: m00000061/maotianhang
- * @version: SmartCityManager V1.0
- * @since: JDK 1.8
+ * @date: 2020/5/25 10:31
+ * @author: snax
  */
 @Data
 @AllArgsConstructor

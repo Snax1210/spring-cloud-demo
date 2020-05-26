@@ -14,7 +14,7 @@ import javax.annotation.Resource;
  * @description: 描述
  * <br>
  * @date: 2020/5/22 17:38
- * @author: m00000061/maotianhang
+ * @author: snax
  * @version: SmartCityManager V1.0
  * @since: JDK 1.8
  */
@@ -23,7 +23,7 @@ import javax.annotation.Resource;
 public class OrderController
 {
 
-    public static final String PAYMENT_URL = "http://localhost:8001";
+    public static final String PAYMENT_URL = "http://CLOUD-PAYMENT-SERVICE";
 
     @Resource
     private RestTemplate restTemplate;
